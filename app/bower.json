@@ -1,0 +1,16 @@
+{
+  "name": "mytable",
+  "main": "index.js",
+  "version": "0.0.1",
+  "authors": [
+    "raioot <rdurazo@nearsoft.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ember": "~1.6.1",
+    "ember-data": "~0.0.14",
+    "normalize-css": "~3.0.1",
+    "font-awesome": "~4.1.0"
+  }
+}

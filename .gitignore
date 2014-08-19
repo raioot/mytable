@@ -4,3 +4,5 @@
 
 #Build data
 build
+app/node_modules
+app/bower_libs
